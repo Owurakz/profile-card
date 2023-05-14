@@ -1,0 +1,10 @@
+.container{
+  min-height: 100vh;
+  background: linear-gradient(135deg, #e3dbf6, #a99bf9 );
+  padding: 10px;
+}
+.card{
+  width: 350px;
+  height: 515px;
+  margin: 100px auto 0;
+}
